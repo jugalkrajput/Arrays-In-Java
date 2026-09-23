@@ -14,7 +14,7 @@ Array Methods In Java
 Important Methods Cheat Sheet
 ------------------------------
 Operation	             |      	Java
-===================================================================
+-----------------------------|--------------------------------------
 Size	                     |   	arr.length
 Print	                     |  	Arrays.toString(arr)
 Sort	                     | 		Arrays.sort(arr)
