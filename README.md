@@ -14,12 +14,12 @@ Array Methods In Java
 Important Methods Cheat Sheet
 ------------------------------
 Operation	                    	Java
-Size	                        	arr.length
-Print	                        	Arrays.toString(arr)
-Sort	                       		Arrays.sort(arr)
-Search sorted array	          	Arrays.binarySearch(arr, x)
-Compare	                      		Arrays.equals(a, b)
-Fill	                        	Arrays.fill(arr, value)
-Copy	                        	Arrays.copyOf()
-Copy range	                  	Arrays.copyOfRange()
-2D print	                    	Arrays.deepToString()
+Size	                     |   	arr.length
+Print	                     |  	Arrays.toString(arr)
+Sort	                     | 		Arrays.sort(arr)
+Search sorted array	     |   	Arrays.binarySearch(arr, x)
+Compare                      |		Arrays.equals(a, b)
+Fill	                     |		Arrays.fill(arr, value)
+Copy	                     |		Arrays.copyOf()
+Copy range	             | 		Arrays.copyOfRange()
+2D print	             |  	Arrays.deepToString()
