@@ -9,3 +9,17 @@ Array Methods In Java
 7. Arrays.binarySearch(arr, 20);
 8. Arrays.deepToString(matrix);
 9. Arrays.deepEquals(a, b);
+
+
+Important Methods Cheat Sheet
+------------------------------
+Operation	                    Java
+Size	                        arr.length
+Print	                        Arrays.toString(arr)
+Sort	                        Arrays.sort(arr)
+Search sorted array	          Arrays.binarySearch(arr, x)
+Compare	                      Arrays.equals(a, b)
+Fill	                        Arrays.fill(arr, value)
+Copy	                        Arrays.copyOf()
+Copy range	                  Arrays.copyOfRange()
+2D print	                    Arrays.deepToString()
